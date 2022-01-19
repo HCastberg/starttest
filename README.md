@@ -1,2 +1,0 @@
-# starttest
-Teaching code
