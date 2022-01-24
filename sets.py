@@ -1,7 +1,5 @@
 #set = collection which is unoordered, unindexed. No duplicate values.
 
-from lib2to3.pgen2.tokenize import untokenize
-
 
 untensils = {"fork","spoon","knife"}
 dishes = {"bowl","plate","cup","knife"}

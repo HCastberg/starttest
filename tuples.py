@@ -10,3 +10,5 @@ for x in student:
 
 if "Herman" in student:
     print("Herman is here.")
+else:
+    print("Herman is not here")
